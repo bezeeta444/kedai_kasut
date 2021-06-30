@@ -1,43 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f52c5071f228f0ee4fa1e915c878278b",
+    "revision": "bb29974f652263f4bbd01f71ba5080f0",
     "url": "/index.html"
   },
   {
-    "revision": "a1bd5f86e341aac6959e",
-    "url": "/static/css/2.bf0413c3.chunk.css"
+    "revision": "5fe4e3215dbb7eaace0b",
+    "url": "/static/css/2.1fc7c0c0.chunk.css"
   },
   {
-    "revision": "5a19c9cdacc33e8722f2",
-    "url": "/static/css/main.432a882b.chunk.css"
+    "revision": "dd3fb4fae7fee566888c",
+    "url": "/static/css/main.174d3640.chunk.css"
   },
   {
-    "revision": "a1bd5f86e341aac6959e",
-    "url": "/static/js/2.41ebc643.chunk.js"
+    "revision": "5fe4e3215dbb7eaace0b",
+    "url": "/static/js/2.4f8b8e8b.chunk.js"
   },
   {
-    "revision": "3ceb8c17f560e6682fd3523301e674b3",
-    "url": "/static/js/2.41ebc643.chunk.js.LICENSE.txt"
+    "revision": "5f8be6edcb631ea3c834b8459dc2c264",
+    "url": "/static/js/2.4f8b8e8b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a19c9cdacc33e8722f2",
-    "url": "/static/js/main.96f83bbf.chunk.js"
+    "revision": "dd3fb4fae7fee566888c",
+    "url": "/static/js/main.751e68cf.chunk.js"
   },
   {
-    "revision": "6efa9fd5558e2337174d",
-    "url": "/static/js/runtime-main.5e45bd3a.js"
+    "revision": "868e40d315588506e139",
+    "url": "/static/js/runtime-main.9722a9fa.js"
   },
   {
     "revision": "fe231b7c0d242387fadf6748f2a8af7c",
     "url": "/static/media/Lebron17monstars.fe231b7c.jpg"
-  },
-  {
-    "revision": "234e4bb4706d89e9aa4ede016fd75031",
-    "url": "/static/media/airJordan.234e4bb4.jpg"
-  },
-  {
-    "revision": "0024ccc7f2efad476dd71a23c1c98ff1",
-    "url": "/static/media/airMax.0024ccc7.jpg"
   },
   {
     "revision": "6d8501eadaab6f1d08593c1b293b49b8",
@@ -216,10 +208,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/miler.55e222a0.jpg"
   },
   {
-    "revision": "ed30defe7bb4195fa8c6818414be7a28",
-    "url": "/static/media/nikeBlazers.ed30defe.jpg"
-  },
-  {
     "revision": "27bded50c5801c5a54508a8b63f0492b",
     "url": "/static/media/pegasus37.27bded50.jpg"
   },
@@ -242,6 +230,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5c113044e146f64c944815189db55a1b",
     "url": "/static/media/phantomRun.5c113044.jpg"
+  },
+  {
+    "revision": "83da3ffa217bc69ec76dfce20de39489",
+    "url": "/static/media/photo1.83da3ffa.jpeg"
   },
   {
     "revision": "a150741c782d764278160ed561a241e1",
@@ -282,22 +274,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6345a13f49438ec511a8a979762fe277",
     "url": "/static/media/romaleos4.6345a13f.jpg"
-  },
-  {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/static/media/slick.b7c9e1e4.woff"
-  },
-  {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/static/media/slick.ced611da.eot"
-  },
-  {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/static/media/slick.d41f55a7.ttf"
-  },
-  {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "5cc43e8144cec8e79dfc5c490078cadc",

@@ -25,7 +25,7 @@ const ShoeItem = ({ id, image, title, before, after, category }) => {
           <span className="shoeItem__before">Before: <span className="shoeItem__beforePrice">{before}</span></span>
           <span className="shoeItem__after">After: <span className="shoeItem__afterPrice">{after}</span></span>
         </div> */}
-        <span className="shoeItem__price">Price:  <span className="shoeItem__afterPrice"> ${after}</span></span>
+        <span className="shoeItem__price">Price:  <span className="shoeItem__afterPrice"> RM{after}</span></span>
         <div className="shoeItem__remove" onClick={removeFromCart} >
           <span className="shoeItem__click">Remove From Cart</span>
           <ShoppingCartRoundedIcon />

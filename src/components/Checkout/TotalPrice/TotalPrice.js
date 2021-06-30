@@ -31,12 +31,12 @@ const TotalPrice = () => {
         value={getCartTotal(cart)}
         displayType={"text"}
         thousandSeparator={true}
-        prefix={"$"}
+        prefix={"RM"}
       />
       {/* <button>Proceed to Payment</button> */}
       <div className="totalPrice__button">
         <StripeCheckout 
-          stripeKey="pk_test_51HJOaQLdoACKysu0wLwQumXY74LkQqXgEnlGlwVZ4YxqUYt4WbS0T5os1yPD4DYdSxGfLZZednPt3Lef3CiD6Eru00duSbZPBO"
+          stripeKey="pk_test_eLUm6tthgge57jwWOM3hnKnF00sLXMo1TG"
           token={handleToken}
         />
       </div>
